@@ -14,7 +14,7 @@
    npx expo start
    ```
 
-#You should this server to run minti : 
+#You should use this server to run minti : 
 https://github.com/FitiaIlaina/minti-server/
 
 
